@@ -1,0 +1,7 @@
+# OS Generated Files #
+######################
+.DS_Store
+
+# Node Dependecies #
+####################
+node_modules/
